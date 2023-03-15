@@ -21,7 +21,7 @@ requirements:
     - flit-core
   run:
     - python >=3.7
-    - ibis-framework >=2.0, <4
+    - ibis-framework >=2.0, <3.2
     - heavyai
     - rbc >=0.8.0
     - pyarrow >=3.0.0
